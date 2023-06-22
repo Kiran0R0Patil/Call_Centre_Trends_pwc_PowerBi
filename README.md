@@ -6,7 +6,7 @@ It’s omnipresent: telecom marketing. Better price here. Better service there. 
 But what do customers really want? Our client, a big telecom company needs to know.
 Email received from the client:
 
-![email screenshot](/problem_statements/1_problem_statements.png)
+![email screenshot](/problem_statements/1_problem_statements.PNG)
 
 * A dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. *
 	- Overall customer satisfaction
