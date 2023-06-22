@@ -14,3 +14,7 @@ Email received from the client:
 - Calls by time
 - Average speed of answer 
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+Visuals can be found in 1_call_centre_trends.pbix in this repository.
+
+For pdf print [click here](/visuals/1_call_centre_trends.pdf)
