@@ -8,7 +8,7 @@ Email received from the client:
 
 ![email screenshot](/problem_statements/1_problem_statements.PNG)
 
-* A dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. *
+*A dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.*
 	- Overall customer satisfaction
    	- Overall calls answered/abandoned
     	- Calls by time
