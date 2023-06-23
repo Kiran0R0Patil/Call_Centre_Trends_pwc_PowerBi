@@ -3,7 +3,7 @@
 ## Task 1: Call Centre Trends
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
-![email screenshot](/)
+![email screenshot](/Task 1 - Call Centre Trends/problem-statements.png)
 
 **Possible KPIs include (to get you started, but not limited to):**
 - Overall customer satisfaction
@@ -12,4 +12,4 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-![Call Centre Trends]()
+![Call Centre Trends](/Task 1 - Call Centre Trends/Call-Center-Trend-Analysis-dashboard.jpg)
