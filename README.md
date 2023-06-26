@@ -5,7 +5,7 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 
 ![email screenshot](Task%201%20-%20Call%20Centre%20Trends/problem-statements.PNG)
 
-**Possible KPIs include (to get you started, but not limited to):**
+*Possible KPIs include (to get you started, but not limited to):*
 - Overall customer satisfaction
 - Overall calls answered/abandoned
 - Calls by time
@@ -27,3 +27,18 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 ![Customer Churn Analysis](Task%202%20-%20Customer%20Retention/Customer-Churn-Analysis.PNG)
 
 ![Customer Churn Analysis](Task%202%20-%20Customer%20Retention/Customer-Risk-Analysis.PNG)
+
+## Task 3: Diversity & Inclusion
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+
+*Here is a hint: Calculating the following **measures** could help to define proper KPIs:*
+- number of men
+- number of women
+- number of leavers
+- % employees promoted (FY21)
+- % of women promoted
+- % of hires men
+- % of hires women
+- % turnover 
+- Average performance rating: men
+- Average Performance rating: women
