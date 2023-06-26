@@ -13,7 +13,7 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 ![Call Centre Trends](Task%201%20-%20Call%20Centre%20Trends/Call-Center-Trend-Analysis-dashboard.png)
-
+___
 ## Task 2: Customer Retention
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
@@ -27,7 +27,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 ![Customer Churn Analysis](Task%202%20-%20Customer%20Retention/Customer-Churn-Analysis.PNG)
 
 ![Customer Churn Analysis](Task%202%20-%20Customer%20Retention/Customer-Risk-Analysis.PNG)
-
+___
 ## Task 3: Diversity & Inclusion
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
@@ -42,3 +42,7 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 - % turnover 
 - Average performance rating: men
 - Average Performance rating: women
+
+![Diversity & Inclusion - 1](Task%203%20-%20Diversity%20%26%20Inclusion/Diversity-and-Inclusion-1.PNG)
+
+___
