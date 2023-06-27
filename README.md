@@ -48,3 +48,10 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 ![Diversity & Inclusion - 2](Task%203%20-%20Diversity%20%26%20Inclusion/Diversity-and-Inclusion-2.jpg)
 
 ___
+## Reference
+ - [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience?ref=YE8xFPAvMcvzKecnK)
+
+ - DataSet and my Visualization file :
+     - [task-1 files](https://github.com/Kiran0R0Patil/PwC-Switzerland-PowerBI-in-Data-Analytics-Virtual-Case-Experience/tree/main/Task%201%20-%20Call%20Centre%20Trends)
+     - [task-2 files](https://github.com/Kiran0R0Patil/PwC-Switzerland-PowerBI-in-Data-Analytics-Virtual-Case-Experience/tree/main/Task%202%20-%20Customer%20Retention)
+    - [task-3 files](https://github.com/Kiran0R0Patil/PwC-Switzerland-PowerBI-in-Data-Analytics-Virtual-Case-Experience/tree/main/Task%203%20-%20Diversity%20%26%20Inclusion)
