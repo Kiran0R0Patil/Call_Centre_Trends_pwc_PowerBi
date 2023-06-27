@@ -43,6 +43,8 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 - Average performance rating: men
 - Average Performance rating: women
 
-![Diversity & Inclusion - 1](Task%203%20-%20Diversity%20%26%20Inclusion/Diversity-and-Inclusion-1.PNG)
+![Diversity & Inclusion - 1](Task%203%20-%20Diversity%20%26%20Inclusion/Diversity-and-Inclusion-1.jpg)
+
+![Diversity & Inclusion - 2](Task%203%20-%20Diversity%20%26%20Inclusion/Diversity-and-Inclusion-2.jpg)
 
 ___
